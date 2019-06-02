@@ -16,3 +16,11 @@ console.log(sumAll(2));
 console.log(sumAll(4));
 
 ..........................................................................................................................................
+
+-3- A function which takes str and time in seconds as arguments, then every second it should count down from time to 0 
+and print current time to console when time equals to 0 it prints str
+
+
+
+
+...........................................................................................................................................
